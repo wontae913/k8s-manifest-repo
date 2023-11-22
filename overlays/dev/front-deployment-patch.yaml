@@ -8,8 +8,8 @@ metadata:
 spec:
   selector:
     matchLabels:
-      app: frontend-fargate
+      app: demo-frontend
   template:
     metadata:
       labels:
-        app: frontend-fargate
+        app: demo-frontend
